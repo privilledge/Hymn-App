@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AOG Hymns</string>
+    <string name="title_activity_landing_page">LandingPage</string>
+    <string name="tab_text_1">Hymns</string>
+    <string name="tab_text_2">Favourites</string>
+    <string name="tab_text_3" translatable="false">More</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home_page" tools:ignore="ExtraTranslation">HomePage</string>
+</resources>

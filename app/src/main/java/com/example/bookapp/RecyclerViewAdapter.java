@@ -1,0 +1,54 @@
+package com.example.bookapp;
+
+import android.content.Context;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.TextView;
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
+import org.jetbrains.annotations.NotNull;
+
+import java.util.List;
+
+public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.MyViewHolder> {
+    Context mContext;
+    List<Favourite> mData;
+
+    public RecyclerViewAdapter(Context mContext, List<Favourite> mData) {
+        this.mContext = mContext;
+        this.mData = mData;
+    }
+
+    @NonNull
+    @NotNull
+    @Override
+    public MyViewHolder onCreateViewHolder(@NonNull @NotNull ViewGroup parent, int viewType) {
+        View v;
+        v= LayoutInflater.from(mContext).inflate(R.layout.item_fav,parent,false);
+        MyViewHolder vHolder=new MyViewHolder(v);
+        return vHolder;
+    }
+
+    @Override
+    public void onBindViewHolder(@NonNull @NotNull MyViewHolder holder, int position) {
+    holder.tv_title.setText(mData.get(position).getTitle());
+    holder.tv_number.setText(mData.get(position).getNumber());
+    }
+
+    @Override
+    public int getItemCount() {
+        return mData.size();
+    }
+
+    public static class MyViewHolder extends RecyclerView.ViewHolder{
+        private TextView tv_title;
+        private TextView tv_number;
+        public MyViewHolder(@NonNull @NotNull View itemView) {
+            super(itemView);
+
+            tv_title=(TextView) itemView.findViewById(R.id.hymn_title);
+            tv_number=(TextView) itemView.findViewById(R.id.hymn_number);
+        }
+    }
+}
