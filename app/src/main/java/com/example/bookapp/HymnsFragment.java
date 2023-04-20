@@ -2,6 +2,8 @@ package com.example.bookapp;
 
 import android.os.Bundle;
 import android.view.*;
+import android.widget.Adapter;
+import android.widget.ArrayAdapter;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
@@ -9,12 +11,18 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
 import java.util.List;
 
 public class HymnsFragment extends Fragment {
 
     private RecyclerView myrecyclerView;
-    private List<Favourite> lstHymn;
+    private List<Hymns> lstHymn;
+    public String[] title;
+    public int[] number;
+    public String[] sContent;
+
     public HymnsFragment() {
     }
 
@@ -25,7 +33,7 @@ public class HymnsFragment extends Fragment {
 
         View rootView= inflater.inflate(R.layout.hymns_fragment, container, false);
         myrecyclerView=(RecyclerView) rootView.findViewById(R.id.hymns_fragment);
-        RecyclerViewAdapter recyclerAdapter=new RecyclerViewAdapter(getContext(),lstHymn);
+        RecyclerViewAdapter recyclerAdapter=new RecyclerViewAdapter(getContext(),lstHymn,title,number,sContent);
         myrecyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
         myrecyclerView.setAdapter(recyclerAdapter);
 
@@ -36,19 +44,21 @@ public class HymnsFragment extends Fragment {
     public void onCreate(@Nullable @org.jetbrains.annotations.Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        lstHymn=new ArrayList<>();
-        lstHymn.add(new Favourite("Mutsvene mutsvene Mwari wesimba","1"));
-        lstHymn.add(new Favourite("kudzai mambo ano utsvene","2"));
-        lstHymn.add(new Favourite("Imi mose muri pasi","3"));
-        lstHymn.add(new Favourite("Mwari muri zuva redu","4"));
-        lstHymn.add(new Favourite("Ngatmukudze Mwari","5"));
-        lstHymn.add(new Favourite("Jehovha unamasimba","6"));
 
-        lstHymn.add(new Favourite("Mutsvene mutsvene Mwari wesimba","7"));
-        lstHymn.add(new Favourite("kudzai mambo ano utsvene","8"));
-        lstHymn.add(new Favourite("Imi mose muri pasi","9"));
-        lstHymn.add(new Favourite("Mwari muri zuva redu","10"));
-        lstHymn.add(new Favourite("Ngatmukudze Mwari","11"));
-        lstHymn.add(new Favourite("Jehovha unamasimba","12"));
+         title = getResources().getStringArray(R.array.hymns_titles);
+         number=getResources().getIntArray(R.array.hymn_numbers);
+         sContent=getResources().getStringArray(R.array.hymn_content);
+
+
+
+
+        lstHymn=new ArrayList<>();
+        for(int i=0;i<title.length;i++){
+            Hymns temp=new Hymns();
+            lstHymn.add(temp);
+        }
+
+
+
     }
 }

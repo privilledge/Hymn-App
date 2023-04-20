@@ -6,6 +6,11 @@
             android:icon="@mipmap/ic_launcher"
             android:label="@string/app_name"
             android:theme="@style/Theme.App">
+        <activity android:name=".Details"
+                   android:value=".detailsPage"
+                   android:theme="@style/DetailScreen">
+    </activity>
+
         <activity
                 android:name=".HomePage"
                 android:label="Home page"
@@ -17,7 +22,7 @@
                 android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
-
+cghp]\864
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
             <!-- Make this the first activity that is displayed when the device boots. -->

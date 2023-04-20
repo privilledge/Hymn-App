@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hymns_titles">
+        <item>Hatina musha panyika</item>
+        <item>There is power in the blood of Jesus</item>
+        <item>Sewakhile enhliziweni</item>
+        <item>Take the world, but give me Jesus</item>
+        <item>Tsistsi dzinondishamisa</item>
+        <item>Welcome wanderer</item>
+        <item>Jesu aittnamn</item>
+        <item>Sandi dineld</item>
+        <item>The name of Jesus is so sweet</item>
+        <item>Hama yedu ndiShe Jesu</item>
+        <item>Thina sihlengiwe</item>
+        <item>Buka yathinsimu</item>
+        <item>Ndinoshamiswa kwazvo</item>
+        <item>Isikathi somkhuleko</item>
+        <item>With my saviour ever near me</item>
+        <item>A psalm</item>
+        <item>Just a closer work</item>
+        <item>Bringing in the sheaves</item>
+        <item>Jesus loves me</item>
+        <item>Lord I am coming home</item>
+        <item>When the saviour calls I will answer</item>
+        <item>Ndakabarwa mune dima</item>
+        <item>Shall we gather at the river</item>
+        <item>He will hold me fast</item>
+
+
+    </string-array>
+
+</resources>
