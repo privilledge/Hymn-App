@@ -2,16 +2,16 @@ package com.example.bookapp;
 
 public class Hymns {
     public String[] title;
-    public String[] number;
+    public int[] number;
     public String[] content;
 
 
-    public Hymns() {
-    }
+//    public Hymns() {
+//    }
 
 
 
-    public Hymns(String[] title, String[] number,String[] content) {
+    public Hymns(String[] title, int[] number,String[] content) {
         this.title = title;
         this.number = number;
         this.content = content;
@@ -25,11 +25,11 @@ public class Hymns {
         this.title = title;
     }
 
-    public String[] getNumber() {
+    public int[] getNumber() {
         return number;
     }
 
-    public void setNumber(String[] number) {
+    public void setNumber(int[] number) {
         this.number = number;
     }
 

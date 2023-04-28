@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hymn_content">
+<!--        1 to 10-->
         <item>1.Hatina musha panyika\n
             "  "Hatifari kuva pano\n
             "  "Zvinofadza mweya yedu\n
@@ -105,23 +106,461 @@
             "   "Ingadinwa yen\'uqobo\n
             "   "Nguye namhla njengezolo\n
             "   "Nomhlobo wam\'\n</item>
-        <item>Fourth Hymn</item>
-        <item>Fifth Hymn</item>
-        <item>Sixth Hymn</item>
-        <item>Seventh Hymn</item>
-        <item>Eighth Hymn</item>
-        <item>Ninth Hymn</item>
-        <item>Tenth Hymn</item>
-        <item>Eleventh Hymn</item>
-        <item>Twelfth Hymn</item>
-        <item>First Hymn</item>
-        <item>Second Hymn</item>
-        <item>Third Hymn</item>
-        <item>Fourth Hymn</item>
-        <item>Fifth Hymn</item>
-        <item>Sixth Hymn</item>
-        <item>Seventh Hymn</item>
-        <item>Eighth Hymn</item>
+        <item>1.Thatha konke, ngino Jesu\n
+            "  "Konke\' okuny\' indiva nje\n
+            "  "Kodw uthando lwakhe lumi,\n
+            "  "Zolo namhla, njalo, he\n
+            \n
+
+            Chorus\n
+            "   "Yek\' ubuhle bokumazi\n
+            "   "Umsindisi wethu lo,\n
+            "   "Yen\' othando Iwakhe lumi,\n
+            "   "Zolo, namhla, njalo, bo\n
+            \n
+
+            2.Thatha konke, ngino Jesu\n
+            "   "Ngukuphila kwami la,\n
+            "   "Nxa ekhon\'uJesu wami\n
+            "   "Angisweli lutho, qha.\n
+            \n
+
+            3.Thatha konke, ngino Jesu\n
+            "   "Unganele mina la,\n
+            "   "Nxa nginaye la empini,\n
+            "   "Ngokunqoba konke nya.\n
+            \n
+
+            4.Thatha konke, nginojesu,\n
+            "   "Engimethembayo, he!\n
+            "   "Masinyane wongibiza,\n
+            "   "Ngiyohlala naye le.\n</item>
+        <item>1.Tsitsi dzinondishamisa\n
+            "  "Dzakandiponesa\n
+            "  "Ndakanga ndisingaone\n
+            "  "Zvino ndaoneswa\n\n
+
+            2.Tsitsi dzinondishamisa\n
+            "   "Dzakandishingisa\n
+            "   "Ngetsitsi dzake ndasukwa\n\n
+
+            3. Mudambudzo repanyika\n
+            "   "Ndinemugondeki\n
+            "   "Ndichazofamba kuenda\n
+            "   "Kum\'soro kudenga.\n\n
+
+            4.Ishe wakanditsidzira\n
+            "   "Rufaro kudenga\n
+            "   "Jehova ndiye muchengeti\n
+            "   "Muupenyu hwapasi\n</item>
+        <item>1.Wen\'ondinda kude.\n
+            "  "phandle kwesibaya,\n
+            "  "Yizwe izwi lithi\n
+            "  "Buyel ekhaya\n\n
+
+            Chorus\n
+            "   "Buya mntwana, buya\n
+            "   "Ubeyel\' ekhaya\n
+            "   "Mus\'ukuli bala,\n
+            "   "Buyel\' ekhaya\n\n
+
+            2.Izwe osukulo, linendler enkulu\n
+            "   "Woza ekundleni kwombus wezulu\n\n
+
+            3.Shiy\' indlela embi,\n
+            "   "ephambukisayo\n
+            "   "Kuyo unosizi oluhlabayo\n\n
+
+            4. Wena usathadwa,\n
+            "   "uhlalew\'ekhaya\n
+            "   "Sebekubhekile, abalaphaya \n</item>
+        <item>1.Igama leNkosi liyiyo inqaba,\n
+            "  "Ophephela khona uyakusindiswa\n
+            "  "Ohlezi kuyona akanakwesaba,\n
+            "  "Ngokuba umhlaba\n
+            "  "uzanyazanyiswa\n\n
+
+            2 Abayokhulek\'egameni leNkosi\n
+            "   "Bayakusindiswa, uyasho umbhalo\n
+            "   "Libongwe abantu, libongw ing\'losi\n
+            "   "Alikho igama elihle njengalo\n\n
+
+            3.Igama lenkosi linika amandla\n
+            "   "Liyawaqinisa amadolo ethu,\n
+            "   "Lisusa uvalo, linika unhlanhla\n
+            "   "Liyasikhanyisa endleleni yethu\n\n
+
+            4.Mhla ngiyakumuka,\n
+            "   "ngishiye lo\'mhlaba\n
+            "   "Igama leNkosi lithikithi lami\n
+            "   "Khona ngiyohamba\n
+            "   "gingenakwesaba,\n
+            "   "Ngocasha kuJesu,\n
+            "   "enguMhlengi wami\n</item>
+        <item>1.Siyakunxusa, Nkosi yethu,\n
+            "  "Thum\'umlilo umlilo\n
+            oNgcwele\n
+            "  "Selupholil\' uthando wethu\n
+            "  "Thum\'umlilo umlilo
+            oNgcwele\n
+            "  "Sibhek\' iPentekost impela\n
+            "  "Nxa lowomlilo usehlela\n
+            "  "Nguwena, Nkosi wosizwela,\n
+            "  "Thum\'umlilo umlilo oNgcwele!\n\n
+
+            2.O. Thixo kaElija sizwe\n
+            "   "Thum\'umlilo, umlilo
+            oNgcwele\n
+            "   "Izinhliziyo mazivuswe.\n
+            "   "Thum\' umiilo umlilo
+            oNgewele\n
+            "   "Siyazibeka elathini\n
+            "   "Sibhek\'umlilo ezulwini.\n
+            "   "Sihlanjululwe ebubini,\n
+            Thum\'umlilo umlilo
+            Ongcwele\n\n
+
+            3.Uthinte izindebe zethu\n
+            "   "Ngal\'ilahle lomlilo oNgcwele,\n
+            "   "Ihlanjululw\' imlomo yethu,\n
+            "   "Thum\'umlilo,  umlilo
+            oNgcwele\n
+            "   "Sibe izigijima zakho\n
+            "   "Zokuhambis\'indaba yakho\n
+            "   "Siholwe njalo ngezwi lakho\n
+            "   "Thum\'mlilo umlilo
+            oNgcwele\n\n
+
+            4.Ushilo nezwi lingephuthe\n
+            "   "Ngizophonsa Umlil\' enhlabeni\n
+            "   "Sengathi lowomlil\'uhuthe\n
+            "   "Thum\'umlilo umlilo
+            oNgcwele\n
+            "   "Sivuselelwe emoyeni\n
+            "   "Sipheleliswe othandweni,\n
+            "   "Luvhute, njalo ebandleni\n
+            "   "Thumulilo umlilo oNcgwele\n</item>
+        <item>1.Limnandi kimi lelogam,\n
+            "  "Nguyen\'owangifela nam\'\n
+            "  "Ligcwele enhliz\'weni yam\'\n
+            "  "Igama lika jesu\n\n
+
+
+            Chorus\n
+            "   ""UJesu" alimnandi pho\n
+            "   ""UJesu" limi njalo bo\n
+            "   ""UJesu" ngiza kulisho\n
+            "   "Namanje naphakade\n
+            \n
+
+            2."UJesu", elomfeli wam\'\n
+            "   "Owazithwal\'izono zam\'\n
+            "   "Oseqedil\'uyalo lwam\'\n
+            "   "Ngiyamuthanda uJesu\n
+            \n
+
+            3.Ingekhathal\'indlebe,qha,\n
+            "   "Ilizwa lelogama la,\n
+            "   "Liqed\' izinyembezi nya.\n
+            "   "EloMsindisi\' uJesu\n
+            "   "4.Alikho nelilodwa, qha,\n
+            "   "Ezweni noma laphaya,\n
+            "   "Singelibonge sonke na\n
+            "   "Elihle likaJesu\n</item>
+        <item>1.Hama yedu ndisheJesu,\n
+            "  "Unotibetsera sei!\n
+            "  "Nhamo yedu misi yose\n
+            "  "Kuna iye tiisei!\n
+            "  "Tinoshaiwa zvomufaro.\n
+            "  "Tinosinzwe shunguwo\n
+            "  "Kana tisingasiendi\n
+            "  "Kundoudza Ishe \n
+            \n
+
+            2.Musi watinoidziwa,\n
+            "   "Nyange totambura sei,\n
+            "   "Tirege kurasha moyo,\n
+            "   "Kunashe titizire\n
+            "   "Kunomumwe ungasenga\n
+            "   "Nhamo dzedu idzedzo?\n
+            "   "Asi iye unoziva\n
+            "   "Tinoudza she Jesu\n
+            \n
+
+            3.Nguva yatinoremedzwa,\n
+            "   "Tichishaiwa simbawo,\n
+            "   "Jesu ndiye nhare yedu\n
+            "   "Titizire ipapo\n
+            "   "Kana tichisi\'wa toga,\n
+            "   "Tindoudza Jesuwo\n
+            "   "Mumaoko ake ose\n
+            "   "Tichandonyaradzwamo\n</item>
+<!--        Up to 11-->
+
+<!--        11 to 24-->
+        <item>1.Thina sihlengiwe,Igazi lika Jesu\n
+            "  "Yebo sihlengiwe, Igazi lika Jesu\n
+            "  "Lona lasophela, lapho esifela,\n
+            "  "Lasithethelela, Igazi lika Jesu\n
+            \n
+
+            2.Likuthula kwethu,Igazi lika Jesu,\n
+            "   "Nenjabulo yethu,lgazi lika Jesu\n
+            "   "Amacala onke, Naz\'izono zonke,\n
+            "   "Kupheliswa konke, Igazi lika Jesu\n
+            \n
+
+            3.Likuphila kwethu, Igazi lika Jesu\n
+            "   "Liyithemba lethu, Igazi lika Jesu\n
+            "   "Lapha emhlabeni, Nxa sisekulweni.\n
+            "   "Noma ekufeni, Igazi lika Jesu.\n
+            \n
+
+            4.Balibonga bonke, Igazi lika Jesu\n
+            "   "Indumiso yonke,Igazi lika Jesu\n
+            "   "Yabasembu sweni,Ekujabuleni,\n
+            "   "Besho bonk "Amen" Igazi lika Jesu\n</item>
+        <item>1.Zanini zizwe,bo\n
+            "  "Sivumelane sonke\n
+            "  "Sizomdumis\'uMntwana\n
+            "  "NguJesu oyiNkosi\n\n
+            Chorus\n
+            "   "Bayethe Nkos\' EnguNgqongqoshe\n
+            "   "Bayethe Nkos\' Emiyo njalo\n
+            "   "Bayethe Nkos\' Esimakade\n
+            "   "Usomandla\n\n
+            2.Vumani zizwe bo\n
+            "   "Guqani ,hloniphani\n
+            "   "Thomani,khothamani\n
+            "   "Vumani-yon\' iNkosi\n
+            \n
+            3. Bongani zizwe,bo\n
+            "   "Umhlaba mawudume,\n
+            "   "Thusani,babazani\n
+            "   "Bongan\' uJesu iNkosi\n
+            4. Thelani zizwe,bo\n
+            "   "Ningabogodhla lutho\n
+            "   "Nizinikele kuye\n
+            "   "Bhekani nans\' iNkosi\n</item>
+        <item>1.Ndinoshamiswa kwazvo\n
+            "  "Namabasa makuru\n
+            "  "Akaitiwa nemi\n
+            "  "Ose anorumbidza\n
+            "  "Ukuru hwenyu Mwari\n
+            "  "Hunoshamisa kwazvo\n\n
+
+            2.Kana ndorangarira\n
+            "   "Mabasa okudenga\n
+            "   "Kana ndarangarira\n
+            "   "Mabasa epanyika\n
+            "   "Inobuda misodzi\n
+            "   "Kana ndofunga imi\n\n
+
+            3.Mwari vatatu mumwe\n
+            "   "Itai kuti tikudei\n
+            "   "Nokuti makatida\n
+            "   "Makazotipa Jesu\n
+            "   "Matipa mweya wenyu\n
+            "   "Wokutisimbaradza\n\n
+
+            4.Rumbidza iwe denga\n
+            "   "Rumbidza iwe nyika\n
+            "   "Rumbidza iwe gungwa\n
+            "   "Nesu ngatirumbidze\n
+            "   "Uyu musiki wedu\n
+            "   "Ano rudo rukuru\n</item>
+        <item>1. \'Sikhathi somkhuleko.\n
+            "  "Ligugu lamakholwa\n
+            "  "Kulapho ,bazalwane\n
+            "  "Amandla ayatholwa\n
+            "  "Nxa sisemthandazweni,\n
+            "  "\'Sivul\' izinhliziyo\n
+            "  "Sibike kuy\' Inkosi\n
+            "  "Silungiselwe yiyo\n\n
+            2.\'Sikhathi somkhuleko\n
+            "   "Masingakhohlwa sona\n
+            "   "Sizodangal\' impela\n
+            "   "Singekunq\'ob\' ukona\n
+            "   "Asinamandhla neze\n
+            "   "Sibindi singebekho\n
+            "   "Singasigcini kahle\n
+            "   "Sikhathi somkhuleko\n\n
+            3. Sikhathi somkhuleko\n
+            "   "Siyakunjuzwa ngaso\n
+            "   "NguMoya oyingcwele\n
+            "   "Ongumhloleli waso,\n
+            "   "Usifundisa futhi\n
+            "   "Ukukhuleka njalo\n
+            "   "Sibike konke, konke\n
+            "   "Singabi namithwalo\n\n
+            4.\'Sikhathi somkhuleko\n
+            "   "Abanye abanaso\n
+            "   "Ngakho bahamba kabi\n
+            "   "Basindwa inkathazo\n
+            "   "Masingabi\'ziwula\n
+            "   "Siqedwa inhlupheko\n
+            "   "Ngokuba siyakhohlwa\n
+            "   "Sithathi somkhuleko\n
+
+        </item>
+        <item>1.NgoMsindis\'onami la emphini\n
+            "  "Ngiyagcinwa noma kungathini\n
+            "  "Ungisith\'esivunguvungwini\n
+            "  "Esandleni somusa\n\n
+            Chorus\n
+            "   "Esandleni somusa\n
+            "   "Esandieni somuse\n
+            "   "Ngiyagcinwa.noma kungathin\n
+            "   "Esandieni somusa\n\n
+            2.Ungigona ngemikhono yakhe,\n
+            "   "Ngiyathokozisw, amazin akhe\n
+            "   "Ngiyalondwa ngobugawe bakhe\n
+            "   "Esandieni somusa\n\n
+            3. Yena akasoze anglyske\n
+            "   "Ngingephucwe fulhi kuyengeks\n
+            "   "Ngoba ungiphethe ngesinske\n
+            "   "Esandieni somusa\n
+
+        </item>
+        <item>I will sing of the mercies of the\n
+            Lord forever\n
+            I will sing, I will sing\n
+            I will sing of the mercies of the\n
+            Lord forever\n
+            I will sing for the mercies of
+            the Lord\n
+            With my mouth will I make
+            known thy faithfulness,
+            thy faithfulness,\n
+            With my mouth will I make
+            known thy
+            faithfulness to all generations\n
+            I will sing of the mercies of the
+            Lord forever\n
+            I will sing, I will sing\n
+            I will sing of the mercies of the
+            Lord forever\n
+            I will sing for the mercies of
+            the Lord\n</item>
+        <item>1.I am weak but thou art strong\n
+            "  "Jesus keep me from all wrong\n
+            "  "I\'ll will be satisfied as long, as I walk\n
+            "  "Let me walk close to you\n
+            \n
+
+            Chorus\n
+            "   "Just a closer walk with thee\n
+            "   "Grant it, Jesus is my plea \n
+            "   "Daily walking closer to thee\n
+            "   "Let it be,Dear Lord, let it be\n
+            \n
+
+            2. Thus this world of toil and snares\n
+            "   "If I falter,Lord, who cares\n
+            "   "Who with me my burden shares\n
+            "   "None but thee,dera Lord, none but thee\n
+            \n
+
+            3. When my feeble life is over\n
+            "   "Time for me will be no more\n
+            "   "Guide me gently,safety o\er\n
+            "   "To thy kingdom shore,to thy kingdom shore.\n
+            \n</item>
+        <item>1.Sowing in the morning, sowing seeds of kindness\n
+            "  "Sowing in the noontide and the dewy eve\n
+            "  "Waiting for the harvest and the time of reaping \n
+            "  "We shall come rejoicing bringing in the sheaves\n
+            \n
+
+            Chorus\n
+            "   "Bringing in the sheaves\n
+            "   "Bringing in the sheaves\n
+            "   "We shall come rejoicing\n
+            "   "Bringing in the sheaves\n
+            "   "Bringing in the sheaves\n
+            "   "Bringing in the sheaves\n
+            "   "We shall come rejoicing\n
+            "   "Bringing in the sheaves\n
+            \n
+
+            2.Sowing in the sunshine\n
+            "   "Bowing in the shadows\n
+            "   "Fearing neither clouds\n
+            "   "Nor winters\'s chilling breeze\n
+            "   "By and by the harvest and the labour ended\n
+            "   "We shall come rejoicing\n
+            "   "Bringing in the sheaves\n
+
+            \n</item>
+        <item>1.Jesus loves me this I know\n
+            "  "For the bible tels me so\n
+            "  "Little one to him belong\n
+            "  "They are weak but he is strong\n
+            \n
+
+            Chorus\n
+            "   "Yes Jesus loves me\n
+            "   "Yes Jesus loves me \n
+            "   "Yes Jesus loves me\n
+            "   "For the bible tells me so\n
+            \n
+
+            2.Jesus loves me. He who died\n
+            "   "Heaven\'s gate to open wide\n
+            "   "He will wash away my sins\n
+            "   "Let His little child come in\n
+            \n
+
+            3. Jesus loves me. Loves me still\n
+            "   "Though I am weak and ill\n
+            "   "From his shining throne on high\n
+            "   "Comes to watch me where I lie\n
+            \n</item>
+        <item>1.I\'ve wondered far way from God\n
+            "  "Now I am coming home\n
+            "  "The path of sin too long I\'ve trod\n
+            "  "Lord I\'m coming home\n
+            \n
+
+            Chorus\n
+            "   "Coming home, coming home\n
+            "   "Nevermore to roam\n
+            "   "Open wide thine arms of love\n
+            "   "Lord I\'m coming home\n
+
+            \n
+
+            2.I\'ve wasted many precious years\n
+            "  "Now I am coming home\n
+            "  "I now repent with bitter tears\n
+            "  "Lord I\'m coming home\n
+            \n
+
+            \n
+
+            3.I\'m tired of sin an straying Lord\n
+            "  "Now I am coming home\n
+            "  "I\'ll trust thy love believe thy word\n
+            "  "Lord I\'m coming home\n
+            \n
+
+            4.My soul is sick, my heart is soul\n
+            "  "Now I am coming home\n
+            "  "My strength renew, my hope restore\n
+            "  "Lord I\'m coming home\n
+            \n
+
+            5.My only hope, myonly plea\n
+            "  "Now I am coming home\n
+            "  "That Jesus died and died for me\n
+            "  "Lord I\'m coming home\n
+            \n
+
+            6.I need cleansing blood I know\n
+            "  "Now I am coming home\n
+            "  "O wash me wither than the snow\n
+            "  "Lord I\'m coming home\n
+            \n</item>
         <item>Ninth Hymn</item>
         <item>Tenth Hymn</item>
         <item>Eleventh Hymn</item>

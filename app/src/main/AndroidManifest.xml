@@ -13,8 +13,9 @@
 
         <activity
                 android:name=".HomePage"
-                android:label="Home page"
+                android:label="@string/app_name"
                 android:theme="@style/Theme.App.AppBar">
+
         </activity>
 <!-- <uses-library android:name="com.google.android.things"/>-->
         <activity
@@ -22,7 +23,7 @@
                 android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
-cghp]\864
+
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
             <!-- Make this the first activity that is displayed when the device boots. -->

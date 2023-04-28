@@ -8,6 +8,7 @@
         tools:context=".Details">
 
 
+
     <TextView
             android:id="@+id/contentOfStory"
             android:layout_width="0dp"

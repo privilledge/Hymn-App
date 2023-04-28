@@ -16,7 +16,7 @@
 
 
     <style name="Theme.App.AppBar" parent="Theme.MaterialComponents.Light.NoActionBar">
-        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimary">@color/color_primary_dark</item>
         <item name="colorPrimaryDark">@color/red</item>
         <item name="colorAccent">@color/red</item>
         <item name="textAllCaps">false</item>
